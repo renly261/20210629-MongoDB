@@ -1,8 +1,8 @@
 {
   "type": "module",
-  "name": "20210629-mongodb",
+  "name": "20210629",
   "version": "1.0.0",
-  "description": "20210629-MongoDB",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"

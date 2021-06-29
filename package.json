@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "20210629-mongodb",
+  "version": "1.0.0",
+  "description": "20210629-MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.0"
+  }
+}
